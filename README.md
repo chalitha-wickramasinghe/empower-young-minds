@@ -1,4 +1,4 @@
-﻿# 🌮 Learnova – Igniting the Future Through Education
+﻿# 🎓 Learnova – Igniting the Future Through Education
 
 
 <table>
@@ -60,5 +60,6 @@
 
 **Chalitha T. Wickramasingha**  
 🔗 [GitHub](https://github.com/chalitha-wickramasinghe)
+🔗 [LinkedIn](https://www.linkedin.com/in/chalitha-t-wickramasingha)
 
-Thank you for viewing my project!
+Thank you for checking out my project!
