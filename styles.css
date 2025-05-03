@@ -51,16 +51,33 @@ body {
 }
 
 .feature__description {
-  text-align: right;
-  line-height: 1.2rem;
-  word-spacing: 3rem;
-  white-space: pre-wrap;
+
 }
 
+/*Styles for call to action section*/
 
+.cta {
+  padding: 100px;
+  background-color: #5bb471;
+  color: #fff;
+  text-align: center;
+}
 
+.cta__description {
+  padding: 15px 0;
+  color: #dbdbdb;
+}
 
+button {
+  color: none;
+  border: none;
+}
 
+.cta__button {
+  padding: 10px 20px;
+}
+
+/*Video Section*/
 
 
 
