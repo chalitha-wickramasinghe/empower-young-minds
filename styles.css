@@ -120,11 +120,29 @@ button {
   box-shadow: 1px 4px 7px 4px rgba(0, 0, 0, 0.33); 
 }
 
+/* Programs Section */
 
+.programs {
+  padding: 100px;
+  background-color: #eee;
+  padding-bottom: 200px;
+}
 
+.programs__cards {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  margin-top: 20px;
+}
 
+.programs__card {
+   background-color: #b5b5b5;
+   padding: 30px;
+   width: 30%;
+   height: 400px;
+}
 
-
+/* Forms Section */
 
 
 
