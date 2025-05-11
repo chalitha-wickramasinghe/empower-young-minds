@@ -28,12 +28,11 @@
 
 ## 🌐 Live Preview
 
-👉 [Visit Learnova Website](https://your-live-link.com)
+👉 [Visit Learnova Website](https://chalitha-wickramasinghe.github.io/empower-young-minds-learnova/)
 
 
 ## 📸 Screenshot
-![Learnova Screenshot 1](img/screenshot1.png)
-![Learnova Screenshot 2](img/screenshot2.png)
+![Learnova Screenshot 1](images/screenshot1.png)
 
 
 ## 🛠️ Technologies Used
@@ -47,7 +46,7 @@
 
 1. **Live Website**:  
    You can access the live version of the website by visiting the link below:  
-   👉 [Visit Learnova Website](https://your-live-link.com)
+   👉 [Visit Learnova Website](https://chalitha-wickramasinghe.github.io/empower-young-minds-learnova/)
 
 2. **Locally** (Optional):  
    - Clone the repository or download the project files.

@@ -26,6 +26,22 @@
 </head>
 
 <body>
+
+  <!-- Custom Navigation Header -->
+  <header class="navbar">
+    <div class="navbar__logo">
+      <img src="images/logo.png" alt="Learnova logo">
+    </div>
+    <nav class="navbar__menu">
+      <a href="#" class="active">Home</a>
+      <a href="#">Programs</a>
+      <a href="#">Features</a>
+      <a href="#">Contact</a>
+    </nav>
+
+  </header>
+
+
   <!-- Hero section -->
   <header class="hero">
     <h1 class="hero__title">EMPOWER YOUNG MINDS</h1>
@@ -37,7 +53,7 @@
   <section class="feature">
     <div class="feature__container">
       <div class="feature__item">
-        <h2 class="feature__title feature__title--selected">
+        <h2 class="feature__title">
           Empower Student Learning
         </h2>
         <p class="feature__description">
@@ -69,6 +85,10 @@
           fosters deeper engagement, maximizes potential, and supports long-term academic success.
         </p>
       </div>
+    </div>
+
+    <div class="feature__image-container">
+      <img class="feature__image" src="images/study.webp" alt="feature image study group" />
     </div>
 
   </section>
@@ -109,16 +129,48 @@
   <section class="programs">
     <h2>Discover Our World-Class Facilities and Inspiring Learning Environment</h2>
     <div class="programs__cards">
-      <div class="programs__card"></div>
-      <div class="programs__card"></div>
-      <div class="programs__card"></div>
+
+      <div class="programs__card">
+        <img src="images/library.jpg" alt="Modern Digital Library" class="programs__card-img">
+        <h3>Modern Digital Library</h3>
+        <p>Access thousands of academic journals, e-books, and learning resources with our state-of-the-art digital
+          library, designed to support research and self-paced learning.</p>
+        <button type="button" class="programs__button">
+          Learn More
+        </button>
+      </div>
+
+      <div class="programs__card">
+        <img src="images/lab.jpg" alt="Interactive Virtual Labs" class="programs__card-img">
+        <h3>Interactive Virtual Labs</h3>
+        <p>Experience hands-on practical learning with our virtual laboratories—simulations and real-world experiments
+          accessible anytime, anywhere.</p>
+        <button type="button" class="programs__button">
+          Learn More
+        </button>
+      </div>
+
+      <div class="programs__card">
+        <img src="images/classroom.png" alt="Collaborative Learning Spaces" class="programs__card-img">
+        <h3>Collaborative Learning Spaces</h3>
+        <p>Engage with peers and instructors in dynamic virtual classrooms that foster teamwork, innovation, and
+          knowledge-sharing across disciplines.</p>
+        <button type="button" class="programs__button">
+          Learn More
+        </button>
+      </div>
+
     </div>
   </section>
+
 
   <!-- Form Section -->
   <section class="element">
     <div class="element__left">
-      <div class="element__placeholder"></div>
+      <div class="element__left">
+        <img src="images/signup-form.png" alt="Student engaged in coding" class="element__image">
+      </div>
+
     </div>
     <div class="element__right">
       <h2>Unlock Your Potential — Join Now</h2>
@@ -163,7 +215,29 @@
     </div>
   </section>
 
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer__top">
+      <div class="footer__logo">
+        <img src="images/logo.png" alt="Learnova logo">
+        <span>Empowering the next generation of learners with innovative educational solutions.</span>
+      </div>
+      <div class="footer__social">
+        <a href="#"><i class="fab fa-facebook-f"></i></a>
+        <a href="#"><i class="fab fa-twitter"></i></a>
+        <a href="#"><i class="fab fa-linkedin-in"></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></a>
+      </div>
+    </div>
+    <p class="footer__copyright">
+      &copy; 2025 Learnova. All rights reserved.
+    </p>
 
+    <div class="footer__resources">
+      <a href="#">Terms & Conditions</a>
+      <a href="#">Privacy Policy</a>
+    </div>
+  </footer>
 
 </body>
 
